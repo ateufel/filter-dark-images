@@ -1,0 +1,13 @@
+node_modules
+images
+build
+out
+dist
+logs
+*.log
+.idea
+.c9
+.DS_Store
+.cache
+.next
+temp
