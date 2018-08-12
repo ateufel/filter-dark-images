@@ -6,7 +6,7 @@ const Confirm = require('prompt-confirm');
 const prompt = new Confirm('Do you want to proceed?');
 const progressBar = new _cliProgress.Bar({}, _cliProgress.Presets.shades_classic);
 
-const minBrightnessLevel = 0.3;
+const minBrightnessLevel = 0.45;
 
 const getBrightnessLevel = (filename) => {
 	return new Promise(function (resolve, reject) {
