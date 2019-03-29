@@ -3,7 +3,7 @@
 This tool removes images below a specified brightness level from a folder
 
 ## Usage
-* Install ImageMagick
+* Install ImageMagick (https://www.imagemagick.org/script/download.php)
 * Install Node.js
 * Install yarn
 * Run `yarn install`
