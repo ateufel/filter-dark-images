@@ -19,12 +19,6 @@
 		"jest": true
 	},
 
-	"globals": {
-		"FB": false,
-		"Raven": false,
-		"React": false
-	},
-
 	"rules": {
 		//0 - off, 1 - warn, 2 - error
 		"quotes": [2, "single"],
